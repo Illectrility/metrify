@@ -1,5 +1,5 @@
 # about
-I don't like using the Imperial system. Whenever someone in a YouTube video mentions fluid ounces, feet and square yards, I pause, open up my browser and search for a conversion site. This is fairly slow, though (and I needed a new project) so I decided to make metrify. Metrify easily allows conversions from Imperial untis to metric units.
+I don't like using the Imperial system. Whenever someone in a YouTube video mentions fluid ounces, feet and square yards, I pause, open up my browser and search for a conversion site. This is fairly slow, though (and I needed a new project) so I decided to make metrify. Metrify easily allows conversions from Imperial units to metric units.
 
 # why not use units?
 You may ask yourself: "Why not just install `units` from apt?" And that's a great question. I don't like the interface of units. It works great (arguably far better than metrify) but I wanted a different interface and – as I mentioned above – I was bored and needed something to do.
