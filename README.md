@@ -1,4 +1,4 @@
-# metrify
+# about
 I don't like using the Imperial system. Whenever someone in a YouTube video mentions fluid ounces, feet and square yards, I pause, open up my browser and search for a conversion site. This is fairly slow, though (and I needed a new project) so I decided to make metrify. Metrify easily allows conversions from Imperial untis to metric units.
 
 # why not use units?
