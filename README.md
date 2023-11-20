@@ -8,6 +8,9 @@ You may ask yourself: "Why not just install `units` from apt?" And that's a grea
 - Short and long versions of the units (i.e. `square feet` and `sq ft`)
 - Plural support for (most) units (i.e. `foot` and `feet`)
 - Automatic addition of prefixes (i.e `1000m` -> `1km` and `0.01m` -> `1cm`)
+## planned (maybe)
+- Support for multiple units (i.e. `6ft3in`)
+- Better handling for prefixes (i.e. no "hecto-" or "deca-" for meters and other units where it isn't customary)
 
 # building
 To build metrify you can run `rustc main.rs` from `/src` or `cargo build --release` from `/metrify`. You may need to run `chmod +x metrify` to allow execution. You can then copy the metrify binary to `~/.local/bin` to run it from anywhere.
