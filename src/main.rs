@@ -66,7 +66,7 @@ const AREA_CONVERSIONS: [([&str; 2], f64); 5] = [
     (["square inch", "sq in"], 0.00064516),
     (["square foot", "sq ft"], 0.09290304),
     (["square yard", "sq yd"], 0.83612736),
-    (["acre", "ac²"], 4046.8564224),
+    (["acre", "ac"], 4046.8564224),
     (["square mile", "sq mi"], 2589988.110336),
 ];
 // standard metric prefixes
