@@ -223,6 +223,8 @@ fn parse_input(input: &str, unit_info: &HashMap<String, UnitData>) -> Option<(f6
         unit = "foot";
     } else if unit == "cubic feet" {
         unit = "cubic foot";
+    } else if unit == "square feet" {
+        unit = "square foot";
     }
 
     // Create a string to hold the resulting unit name
